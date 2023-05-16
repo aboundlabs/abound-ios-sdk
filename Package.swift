@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "Abound",
             url: "https://sdk.aboundlabs.com/Abound-iOS-SDK-1.1.0.zip",
-            checksum: "7b5e70d468183a299f799ae8dbc4957832514cd09c825c3b28a107dd5ee2de31"
+            checksum: "c522cf4feac482ef8e700a10bd2c93366056ab6b48c3edb7843f86004c162dff"
         )
     ]
 )
