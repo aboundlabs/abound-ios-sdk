@@ -7,7 +7,7 @@ To get started with the Abound SDK, we suggest you follow the [Get Started](http
 
 Abound SDK is distributed as a Swift Package (Abound.xcframework) at [https://github.com/aboundlabs/abound-ios-sdk.git](https://github.com/aboundlabs/abound-ios-sdk.git).
 
-Abound SDK for iOS is compatible with iOS 14.0+ and Xcode 13.4+.
+Abound SDK for iOS is compatible with iOS 15.0+ and Xcode 14.3+.
 
 ## Support
 
